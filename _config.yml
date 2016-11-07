@@ -40,7 +40,7 @@ owner:
   email:
   disqus-shortname:
   twitter: #username
-  facebook: #username
+  facebook: dhiraj.das.05
   google:
     plus: #username
     analytics:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: dhiraj-das
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
