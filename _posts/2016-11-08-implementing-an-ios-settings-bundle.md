@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-08-18 15:07:19
+title:  "Implementing an iOS Settings Bundle"
+date:   2016-11-08 11:32:14
 categories: [tutorial]
 comments: true
 ---
