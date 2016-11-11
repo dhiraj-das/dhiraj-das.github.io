@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Completion Handlers
-excerpt: "Tutorial to explain how completion handlers work in swift"
 tags: [tutorial, swift]
 modified: 2016-11-11
 comments: true
 ---
 
-Completion handlers in swift are a bit confusing at first if you are not used to blocks or closures, but they are extremely useful in situations where an API request or task take some time to get completed and you specifically want something to  happen after *completion* of that task. Let us see how we can implement a completion handler in our methods.
+Completion handlers in swift are a bit confusing at first if you are not used to blocks or closures, but they are extremely useful in situations where an API request or task take some time to get completed and you specifically want something to  happen after *completion* of that task. <!--more--> Let us see how we can implement a completion handler in our methods.
 
 **NOTE:** Completion handlers in swift can be compared to lambda expressions[^1] in Java. 
 
