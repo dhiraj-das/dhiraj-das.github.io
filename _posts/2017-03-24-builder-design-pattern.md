@@ -5,7 +5,7 @@ tags: [tutorial, swift]
 modified: 2017-03-24
 comments: true
 ---
-The first creational design pattern that I would like to discuss is the builder design pattern. This design pattern comes extremely handy when you want to create different varients of an object while avoiding constructor pollution. Useful when there could be several flavors of an object or when there are a lot of steps involved in creation of an object.
+The first creational design pattern that I would like to discuss is the builder design pattern. This design pattern comes extremely handy when you want to create different variants of an object while avoiding constructor pollution. Useful when there could be several flavors of an object or when there are a lot of steps involved in creation of an object.
 <!--more-->
 
 Let me give you an example of how constructor pollution or **telescoping constructor anti-pattern**[^1] looks like-
