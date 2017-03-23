@@ -23,7 +23,7 @@ Design Patterns can be broadly classified into three types-
 ##### Creational
 These design patterns mainly focus on how an object or group of related objects are instantiated or created. 
 
-* Builder
+* [Builder](https://dhiraj-das.github.io/articles/2017-03/builder-design-pattern)
 * Singleton
 
 Stay tuned for detailed tutorials every week on design patterns!
