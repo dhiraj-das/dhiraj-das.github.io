@@ -11,7 +11,7 @@ The first creational design pattern that I would like to discuss is the builder 
 Let me give you an example of how constructor pollution or **telescoping constructor anti-pattern**[^1] looks like-
 
 {% highlight swift %}
-func init(noOfRooms: Int, noOfBathrooms: Int, hasBalcony: Bool, color: UIColor)
+init(noOfRooms: Int, noOfBathrooms: Int, hasBalcony: Bool, color: UIColor)
 {% endhighlight %}
 
 [^1]: <http://stackoverflow.com/a/1953567/6653777>
