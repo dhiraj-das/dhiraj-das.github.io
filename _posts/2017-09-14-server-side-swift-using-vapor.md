@@ -65,7 +65,14 @@ drop.get("hi") { request in
 }
 {% endhighlight %}
 
-Now, open run the Run scheme of your project and type the url 'http://localhost:8080/hi' -
+Now, save the file and quit xcode.
+
+{% highlight shell %}
+vapor run
+}
+{% endhighlight %}
+
+type this in your browser 'http://localhost:8080/hi' -
 
 You should see Hello, world!
 
